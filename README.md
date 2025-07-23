@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aashish Kumr 👋</h1>
+<h1 align="center">Hi, I'm Aashish Kumar 👋</h1>
 
 <p align="center">
   🚀 Aspiring Frontend Developer | 💖 Lover of React, JavaScript, and Clean UI | 🇮🇳 Proudly Indian
